@@ -13,8 +13,9 @@ A desktop application built using Windows Forms (.NET) that allows a single user
 - 🔍 **Search**: Instantly find tasks by title or status keywords.
 - 🗂️ **Status Tracking**: Mark tasks as `Pending`, `In Progress`, or `Completed` to reflect progress.
 - 📊 **Group by Status or Date**: Organize and view tasks grouped by their current status or due date for clearer planning.
-- ✅ **Track Finished Tasks**: View the number and percentage of tasks marked as completed to track productivity.
-- 📈 **Generate Task Report**: View a report screen that summarizes all tasks by status using a table or chart (e.g., Pie Chart or Bar Graph).
+- ✅ **Track Finished Tasks**: View the tasks marked as completed to track productivity.
+- 📈 **Generate Task Report**: View a report screen that summarizes all tasks by status using a chart (e.g., Pie Chart).
+- 📧 **Email Verification**: Upon user registration, an email is sent with a unique code or confirmation link. The user must verify their email before gaining full access to the system.
 
 ---
 
@@ -28,3 +29,14 @@ A desktop application built using Windows Forms (.NET) that allows a single user
 - **.NET Core** – Runtime platform (depending on version)
 - **T-SQL** - Script language for database queries
 ---
+
+## 🧪 Future Improvements
+
+- Task reminders and notifications
+- Export to Excel, PDF, or CSV
+- Cloud-based sync or web version using Blazor or ASP.NET Core
+
+## 👨‍💻 Author
+
+**Mohamed Abdelhakim**  
+[GitHub Profile](https://github.com/MohamedWalid70)
